@@ -1,6 +1,6 @@
 [![MasterHead](https://i.postimg.cc/76n5DntC/image.png)](https://github.com/soydex)
 
-<div align="left">I'm Using Python to create Free Programs</div>
+<div align="left">I use Python to create Free Programs</div>
 
 
 <div align="right">
