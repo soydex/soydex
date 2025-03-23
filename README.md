@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm soydex</h1>
-<h3 align="center">A developer from </h3>
+<h3 align="center">A Full-Stack & Software developer</h3>
 
 - 🔭 I’m currently working on **FAST&GO**, A Rental Car Service
 
