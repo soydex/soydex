@@ -18,8 +18,8 @@
 
 ### 📌 Featured Projects
 
-- 🚗 **FAST&GO** - A Rental Car Service [🔗 Repo](https://github.com/soydex/fast-go)
-- 🤖 **Discord Bot Framework** - Advanced bot framework in Python [🔗 Repo](https://github.com/soydex/discord-bot)
+- 🚗 **FAST&GO** - A Rental Car Service [🔗 Repo](https://github.com/soydex/dbveh) (Not released yet)
+- 🤖 **Discord Bot Framework** - Advanced bot framework in Python [🔗 Repo](https://github.com/soydex/BOT_DISCORD_PY) (update soon)
 
 ---
 
@@ -34,7 +34,7 @@
 
 ### 🌍 Connect with Me
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/527482340847386625)
 ---
 
 ### 🛠 Languages and Tools:
