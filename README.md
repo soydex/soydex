@@ -2,7 +2,7 @@
 
 ### A Full-Stack & Software Developer
 
-- 🎯 Currently working on **FAST&GO**, a Rental Car Service
+- 🎯 Currently working on **Nothing**, enjoy your holidays, bro!
 - 💬 Ask me about **JavaScript, Discord Bot Development & Python**
 - 📫 How to reach me: [soydexdev@proton.me](mailto:soydexdev@proton.me)
 
@@ -10,7 +10,6 @@
 
 ### 🚀 Currently Learning:
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
