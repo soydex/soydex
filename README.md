@@ -17,7 +17,7 @@
 
 ### 📌 Featured Projects
 
-- 🚗 **FAST&GO** - A Rental Car Service [🔗 Repo](https://github.com/soydex/dbveh) (Not released yet)
+- 🚗 **FAST&GO** - A Rental Car Service [🔗 Repo](https://github.com/soydex/Fast-go)
 - 🤖 **Discord Bot Framework** - Advanced bot framework in Python [🔗 Repo](https://github.com/soydex/BOT_DISCORD_PY) (update soon)
 
 ---
