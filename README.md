@@ -2,7 +2,7 @@
 
 ### A Full-Stack & Software Developer
 
-- 🎯 Currently working on **Nothing**, enjoy your holidays, bro!
+- 🎯 Currently working on **Timewyse**, enjoy your holidays, bro!
 - 💬 Ask me about **JavaScript, Discord Bot Development & Python**
 - 📫 How to reach me: [soydexdev@proton.me](mailto:soydexdev@proton.me)
 
@@ -17,6 +17,8 @@
 
 ### 📌 Featured Projects
 
+- **⏳ Founder Of Timewyse** - Full Service Project.
+- **React Notification Simple** - An easy way to show notification in your client. [🔗 Repo](https://github.com/soydex/Notifications-React)
 - 🚗 **FAST&GO** - A Rental Car Service [🔗 Repo](https://github.com/soydex/Fast-go)
 - 🤖 **Discord Bot Framework** - Advanced bot framework in Python [🔗 Repo](https://github.com/soydex/BOT_DISCORD_PY) (update soon)
 
