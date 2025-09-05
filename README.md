@@ -2,8 +2,8 @@
 
 ### A Full-Stack & Software Developer
 
-- 🎯 Currently working on **Timewyse**, enjoy your holidays, bro!
-- 💬 Ask me about **JavaScript, Discord Bot Development & Python**
+- 🎯 Currently working on **Timewyse** & My personal Projects
+- 💬 Ask me about **TS/JS, Full-Stack Applications, Discord Bot Development & Python**
 - 📫 How to reach me: [soydexdev@proton.me](mailto:soydexdev@proton.me)
 
 ---
@@ -16,7 +16,7 @@
 
 ### 📌 Featured Projects
 
-- **⏳ Founder Of Timewyse** - Full Service Project.
+- **⏳ Founder of Timewyse** - Full Service Project.
 - **React Notification Simple** - An easy way to show notification in your client. [🔗 Repo](https://github.com/soydex/Notifications-React)
 - 🚗 **FAST&GO** - A Rental Car Service [🔗 Repo](https://github.com/soydex/Fast-go)
 - 🤖 **Discord Bot Framework** - Advanced bot framework in Python [🔗 Repo](https://github.com/soydex/BOT_DISCORD_PY) (update soon)
@@ -34,11 +34,13 @@
 
 ### 🌍 Connect with Me
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/527482340847386625)
----
+## [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/527482340847386625)
 
 ### 🛠 Languages and Tools:
 
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -59,5 +61,5 @@
 ### 📝 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </p>
