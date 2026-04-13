@@ -1,21 +1,7 @@
-## Hi, I'm Soydex ! 
+## I'm Soydex
 ### Full-Stack Developer · Next.js & TypeScript Specialist
 
-- 🏗️ Currently building **The PerfectListener** ( Music platform) & **Timewyse** (Project management platform)
-- 🤝 Open to freelance — landing pages, dashboards, SaaS MVPs
-- 💬 Ask me about **Next.js, TypeScript, SaaS architecture, SEO & performance**
 - 📫 Reach me at [soydexdev@proton.me](mailto:soydexdev@proton.me)
-
----
-
-### 📌 Featured Projects
-
-- 🔐 **RHVault** — Secure HR document platform with file encryption, audit logging, role-based access & email notifications *(Next.js · PostgreSQL · Prisma)*
-- 🌐 **Dircom** — Agency landing page with multi-step pricing form, SEO pipeline & animated UI components *(Next.js · TailwindCSS)*
-- 🤖 **Neo Bot** — Minimalist premium brand chatbot template *(Next.js · TypeScript)*
-- 📢 **React Notification Simple** — Lightweight notification library for React [🔗 Repo](https://github.com/soydex/Notifications-React)
-- 🚗 **FAST&GO** — Car rental service [🔗 Repo](https://github.com/soydex/Fast-go)
-
 ---
 
 ### 🛠️ Stack
