@@ -1,4 +1,3 @@
-## I'm Soydex
 ### Full-Stack Developer · Next.js & TypeScript Specialist
 
 - 📫 Reach me at [soydexdev@proton.me](mailto:soydexdev@proton.me)
